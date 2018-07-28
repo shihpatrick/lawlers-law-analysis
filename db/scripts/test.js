@@ -5,10 +5,13 @@ const HOMETEAM = 0;
 const AWAYTEAM = 1;
 const BADVARIABLE = 2;
 
-let totalLawler = 0;
-let trueLawler = 0;
+function getLawler(schedule) {
 
-function getLawler(schedule){
+  let lawlerData = {
+    totalLawler: 0,
+    trueLawler: 0
+  };
+
   schedule.forEach(function(game){
     if (game.seasonStageId == 2){
       data.pbp({
@@ -42,19 +45,21 @@ function getLawler(schedule){
           }
         }
         if (firstTo100 == winner || firstTo100 == BADVARIABLE){
-          trueLawler += 1;
-          totalLawler += 1;
+          lawlerData.trueLawler += 1;
+          lawlerData.totalLawler += 1;
         }
         else if (firstTo100 != NOLAWLER && firstTo100 != winner){
-          totalLawler += 1;
+          lawlerData.totalLawler += 1;
         }
-        console.log("trueLawler: " + trueLawler + "\ntotalLawler: " + totalLawler);
       })
       .catch(function(err) {
         console.error(err);
       })
     }
   })
+
+  setTimeout(function(){}, 5000);
+  return lawlerData;
 }
 
 module.exports = getLawler;
