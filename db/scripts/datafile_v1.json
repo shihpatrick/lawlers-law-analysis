@@ -1,0 +1,1502 @@
+{
+    "0": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 0,
+                "total_lawler": 0
+            }
+        }
+    ],
+    "1": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 656,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "2": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 648,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "3": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 647,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "4": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 648,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "5": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 668,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "6": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 687,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "7": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 688,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "8": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 687,
+                "total_lawler": 1228
+            }
+        }
+    ],
+    "9": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 686,
+                "total_lawler": 1228
+            }
+        }
+    ],
+    "10": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 703,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "11": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 709,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "12": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 733,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "13": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 724,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "14": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 745,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "15": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 749,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "16": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 757,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "17": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 760,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "18": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 758,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "19": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 762,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "20": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 765,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "21": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 779,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "22": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 771,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "23": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 779,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "24": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 794,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "25": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 791,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "26": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 802,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "27": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 798,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "28": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 790,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "29": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 811,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "30": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 807,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "31": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 802,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "32": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 810,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "33": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 810,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "34": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 825,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "35": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 819,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "36": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 817,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "37": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 828,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "38": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 820,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "39": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 825,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "40": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 820,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "41": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 838,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "42": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 833,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "43": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 822,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "44": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 830,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "45": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 837,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "46": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 846,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "47": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 834,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "48": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 848,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "49": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 852,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "50": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 858,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "51": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 858,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "52": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 880,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "53": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 874,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "54": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 877,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "55": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 880,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "56": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 893,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "57": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 894,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "58": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 895,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "59": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 894,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "60": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 900,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "61": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 897,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "62": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 902,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "63": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 894,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "64": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 906,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "65": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 912,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "66": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 916,
+                "total_lawler": 1227
+            }
+        }
+    ],
+    "67": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 921,
+                "total_lawler": 1228
+            }
+        }
+    ],
+    "68": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 938,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "69": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 940,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "70": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 947,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "71": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 952,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "72": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 946,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "73": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 955,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "74": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 954,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "75": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 970,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "76": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 971,
+                "total_lawler": 1229
+            }
+        }
+    ],
+    "77": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 975,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "78": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 984,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "79": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 982,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "80": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 994,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "81": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 992,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "82": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1001,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "83": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1002,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "84": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1017,
+                "total_lawler": 1230
+            }
+        }
+    ],
+    "85": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1021,
+                "total_lawler": 1228
+            }
+        }
+    ],
+    "86": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1028,
+                "total_lawler": 1228
+            }
+        }
+    ],
+    "87": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1034,
+                "total_lawler": 1226
+            }
+        }
+    ],
+    "88": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1025,
+                "total_lawler": 1209
+            }
+        }
+    ],
+    "89": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1027,
+                "total_lawler": 1201
+            }
+        }
+    ],
+    "90": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1048,
+                "total_lawler": 1210
+            }
+        }
+    ],
+    "91": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1030,
+                "total_lawler": 1198
+            }
+        }
+    ],
+    "92": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1032,
+                "total_lawler": 1198
+            }
+        }
+    ],
+    "93": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1031,
+                "total_lawler": 1191
+            }
+        }
+    ],
+    "94": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1039,
+                "total_lawler": 1181
+            }
+        }
+    ],
+    "95": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1036,
+                "total_lawler": 1178
+            }
+        }
+    ],
+    "96": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1038,
+                "total_lawler": 1163
+            }
+        }
+    ],
+    "97": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1028,
+                "total_lawler": 1143
+            }
+        }
+    ],
+    "98": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1003,
+                "total_lawler": 1117
+            }
+        }
+    ],
+    "99": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 986,
+                "total_lawler": 1098
+            }
+        }
+    ],
+    "100": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 974,
+                "total_lawler": 1079
+            }
+        }
+    ],
+    "101": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 951,
+                "total_lawler": 1050
+            }
+        }
+    ],
+    "102": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 932,
+                "total_lawler": 1024
+            }
+        }
+    ],
+    "103": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 901,
+                "total_lawler": 989
+            }
+        }
+    ],
+    "104": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 884,
+                "total_lawler": 960
+            }
+        }
+    ],
+    "105": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 847,
+                "total_lawler": 917
+            }
+        }
+    ],
+    "106": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 817,
+                "total_lawler": 879
+            }
+        }
+    ],
+    "107": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 793,
+                "total_lawler": 852
+            }
+        }
+    ],
+    "108": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 753,
+                "total_lawler": 812
+            }
+        }
+    ],
+    "109": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 706,
+                "total_lawler": 754
+            }
+        }
+    ],
+    "110": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 667,
+                "total_lawler": 710
+            }
+        }
+    ],
+    "111": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 628,
+                "total_lawler": 666
+            }
+        }
+    ],
+    "112": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 590,
+                "total_lawler": 620
+            }
+        }
+    ],
+    "113": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 549,
+                "total_lawler": 576
+            }
+        }
+    ],
+    "114": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 515,
+                "total_lawler": 536
+            }
+        }
+    ],
+    "115": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 469,
+                "total_lawler": 491
+            }
+        }
+    ],
+    "116": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 425,
+                "total_lawler": 444
+            }
+        }
+    ],
+    "117": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 381,
+                "total_lawler": 398
+            }
+        }
+    ],
+    "118": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 351,
+                "total_lawler": 364
+            }
+        }
+    ],
+    "119": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 316,
+                "total_lawler": 329
+            }
+        }
+    ],
+    "120": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 282,
+                "total_lawler": 291
+            }
+        }
+    ],
+    "121": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 250,
+                "total_lawler": 261
+            }
+        }
+    ],
+    "122": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 225,
+                "total_lawler": 229
+            }
+        }
+    ],
+    "123": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 194,
+                "total_lawler": 199
+            }
+        }
+    ],
+    "124": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 165,
+                "total_lawler": 169
+            }
+        }
+    ],
+    "125": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 141,
+                "total_lawler": 143
+            }
+        }
+    ],
+    "126": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 121,
+                "total_lawler": 121
+            }
+        }
+    ],
+    "127": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 100,
+                "total_lawler": 101
+            }
+        }
+    ],
+    "128": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 86,
+                "total_lawler": 87
+            }
+        }
+    ],
+    "129": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 74,
+                "total_lawler": 75
+            }
+        }
+    ],
+    "130": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 56,
+                "total_lawler": 58
+            }
+        }
+    ],
+    "131": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 43,
+                "total_lawler": 45
+            }
+        }
+    ],
+    "132": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 39,
+                "total_lawler": 39
+            }
+        }
+    ],
+    "133": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 32,
+                "total_lawler": 32
+            }
+        }
+    ],
+    "134": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 22,
+                "total_lawler": 24
+            }
+        }
+    ],
+    "135": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 17,
+                "total_lawler": 19
+            }
+        }
+    ],
+    "136": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 15,
+                "total_lawler": 17
+            }
+        }
+    ],
+    "137": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 15,
+                "total_lawler": 17
+            }
+        }
+    ],
+    "138": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 11,
+                "total_lawler": 13
+            }
+        }
+    ],
+    "139": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 11,
+                "total_lawler": 12
+            }
+        }
+    ],
+    "140": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 11,
+                "total_lawler": 11
+            }
+        }
+    ],
+    "141": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 7,
+                "total_lawler": 8
+            }
+        }
+    ],
+    "142": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 5,
+                "total_lawler": 6
+            }
+        }
+    ],
+    "143": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 5,
+                "total_lawler": 5
+            }
+        }
+    ],
+    "144": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 4,
+                "total_lawler": 4
+            }
+        }
+    ],
+    "145": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 4,
+                "total_lawler": 4
+            }
+        }
+    ],
+    "146": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 4,
+                "total_lawler": 4
+            }
+        }
+    ],
+    "147": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 3,
+                "total_lawler": 3
+            }
+        }
+    ],
+    "148": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 3,
+                "total_lawler": 3
+            }
+        }
+    ],
+    "149": [
+        {
+            "year": "17-18",
+            "season": "regular",
+            "data": {
+                "true_lawler": 1,
+                "total_lawler": 1
+            }
+        }
+    ]
+}
