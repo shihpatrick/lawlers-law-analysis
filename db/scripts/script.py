@@ -109,20 +109,7 @@ def main():
     nba_db = {}
     schedule = get_schedule()
 
-    # game = schedule[170]
-
-    # rv = get_lawler(game, 58)
-    # # print(schedule.index(game))
-    # print(rv)
-
-    # for game in schedule:
-    #     rv = get_lawler(game, 64)
-    #     print(schedule.index(game))
-    #     print(rv)
-
-    #https://stackoverflow.com/questions/17167297/convert-this-python-dictionary-into-json-format (for later)
-
-    for i in range(100,104):
+    for i in range(0,150):
         results = Parallel(n_jobs=64, backend="threading")(delayed(get_lawler)(game, i) for game in schedule)
         rv = list(map(sum, zip(*results)))
 
