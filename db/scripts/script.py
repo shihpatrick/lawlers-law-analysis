@@ -1,4 +1,5 @@
 import requests, enums, json
+import requests_cache
 from joblib import Parallel, delayed
 
 def get_schedule():
@@ -19,7 +20,9 @@ def get_lawler(game, points):
         first_to_x = enums.team.NOLAWLER
         winner = enums.team.HOME if int(game['hTeam']['score']) > int(game['vTeam']['score']) else enums.team.AWAY
         first_to_x = search_for_play(plays, 0, plays_len, points)
-
+        for play in plays:
+            print(play)
+            print('\n')
         if first_to_x == winner:
             return enums.lawler_rv.TRUE_LAWLER
         elif first_to_x != enums.team.NOLAWLER and first_to_x != winner:
@@ -75,7 +78,7 @@ def get_plays(game, points):
             plays_len = len(plays) - 1
         else:
             return [], -1
-
+    
     return plays, plays_len
 
 def get_period(points): 
@@ -93,6 +96,10 @@ def search_for_play(plays, l, r, points):
         mid = l + int((r-l)/2)
         home_score = int(plays[mid]['hTeamScore'])
         away_score = int(plays[mid]['vTeamScore'])
+        # print(home_score)
+        # print(away_score)
+        # print('\n')
+        # print(mid)
 
         if away_score >= points and home_score < points:
             return enums.team.AWAY
@@ -106,17 +113,26 @@ def search_for_play(plays, l, r, points):
         return enums.team.NOLAWLER
 
 def main():
+    requests_cache.install_cache('test_cache', backend='sqlite')
     nba_db = {}
     schedule = get_schedule()
 
-    for i in range(0,150):
-        results = Parallel(n_jobs=64, backend="threading")(delayed(get_lawler)(game, i) for game in schedule)
-        rv = list(map(sum, zip(*results)))
+    # for game in schedule:
+    #     results = get_lawler(game, 5)
 
-        nba_db[i] = [{"year": "17-18", "season": "regular", "data": {"true_lawler": rv[0], "total_lawler": rv[1]}}]
+    game = schedule[94]
+    #print(game)
+    results = get_lawler(game, 5)
+    print(results)
+
+    # for i in range(5, 10):
+    #     results = Parallel(n_jobs=64, backend="threading")(delayed(get_lawler)(game, i) for game in schedule)
+    #     rv = list(map(sum, zip(*results)))
+
+    #     nba_db[i] = [{"year": "17-18", "season": "regular", "data": {"true_lawler": rv[0], "total_lawler": rv[1]}}]
     
-    r = json.dumps(nba_db, indent=4)
-    print(r)
+    # r = json.dumps(nba_db, indent=4)
+    # print(r)
 
 
 
